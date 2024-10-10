@@ -1,1 +1,1 @@
-Text hidden in file3
+Text hidden in file3 after the update
